@@ -1,0 +1,19 @@
+## Type of change
+
+- [x] Add new directory for a server
+- [x] Update directory of a server
+- [x] Remove directory of a server
+- [x] Documentation Update
+
+## Checklist
+
+- [x] I have read the [README](https://github.com/LabyMod/server-media/blob/master/README.md) doc
+- [x] I have compressed the images appropriately (e.g. on https://tinypng.com)
+- [x] I have created the manifest.json with the required values
+
+## Further comments
+![background](https://github.com/LabyMod/server-media/assets/157905129/6e9e739c-04b7-4220-8384-96aa23095812)
+![background@2x](https://github.com/LabyMod/server-media/assets/157905129/ad24a854-d171-4eb5-9ed2-07f3540817a7)
+![icon](https://github.com/LabyMod/server-media/assets/157905129/f200701b-0871-4cd1-942f-122e8bc185bc)
+![icon@2x](https://github.com/LabyMod/server-media/assets/157905129/f0284795-fb01-4d68-a889-7aa1299dac39)
+[manifest.json](https://github.com/LabyMod/server-media/files/14073369/manifest.json)
